@@ -235,5 +235,18 @@ footer {
         width: 400px;
         height: 400px;
     }
+
+    .logo:hover{
+        background-color: #dfadd5;
+        border-radius: 5px;
+        padding: 10px;
+        height: 70px;
+    }
+
+    .icono:hover{
+        background-color: #dfadd5;
+    }
+
+    
 }
 
